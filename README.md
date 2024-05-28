@@ -3,7 +3,7 @@
 The Garage Management System is a comprehensive software solution designed to
 streamline and automate the management of automotive service centers or garages.
 Developed as part of a college project, this web-based application leverages Java
-technologies, including Servlets, JSP, HTML, and filters, to provide a user-friendly
+technologies, including Servlets, JSP, HTML, CSS and filters, to provide a user-friendly
 interface for administrators and workers.
 
 Key functionalities of the system include authentication mechanisms to ensure
